@@ -1,0 +1,82 @@
+ChangeLog:
+
+v0.8b
+- Added "Copy" button
+- Little fixes
+
+v0.7b
+- Added operation "%"
+
+v.0.67b
+- Fixed many problem with correct math operations (mainly with "back" button and brackets)
+
+v.0.6b
+- Added button operation "^", "sqrt"
+- Locked the possibility of entering math characters after the window is completely cleared with the "back" button
+
+v0.55b
+- Added buttons: ^, %, sqrt
+
+v0.52b
+- Added functional "back" button, which remove last char
+- Fixed an error that occurred when pressing "=" when the input field was empty
+
+v0.5b
+- Added ability to use "." in brackets
+- Code optimization
+
+v0.46b
+- Changed keys names
+
+v0.44b
+- Added icon calculator
+
+v0.43b
+- Added footer
+
+v0.42b
+- Added comments in the code
+- Code formatting
+
+v0.4b
+- Code optimization. Creation of 4 functions (Reduction of code volume)
+
+v0.35b
+- Added 2 buttons to perform actions in brackets
+- Automatic closing of the brackets
+- Created 2 separate functions for locking and unlocking the "." Button
+
+v0.3b
+- Created two functions that locking and unlocking lock math buttons in order to perform correct calculations
+
+v0.2b
+- Disabled Input's
+- Coloring Input's
+- Changed color button "Quit" and "Clear"
+
+v0.15b
+- Changed the size of buttons
+- Added "Clear" button
+- Removed automatic cleaning
+- Small graphic changes
+
+v0.1b
+- Created a complete calculator interface and functional number buttons
+
+v0.09a
+- Automatic cleaning of 1st Input after clicking "="
+
+v0.08a
+- Changed the operation of the math buttons. Now the buttons show the character in 1st Input
+- Added of the "=" button
+- The result is now show in the 2nd Input
+- Changing the way the result is processed - function eval()
+
+v0.05a
+- Added 4 new buttons: "-", "*", "/", "."
+
+v0.01a
+- Two windows (Input) for entering values
+- One Button "+"
+- Result in the console
+- Button "Quit"
