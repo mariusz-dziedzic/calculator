@@ -1,3 +1,7 @@
+Just run the exe file
+
+or:
+
 Before starting:
 The program is available in a version to run in Jupyter Notebook and in a standard Python file.
 Before starting, make sure you have the PySimpleGUI library installed, without it the program will not work. To install, execute the command in the CMD terminal:
